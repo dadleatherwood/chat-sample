@@ -1,0 +1,27 @@
+{
+  "name": "chat-sample",
+  "version": "1.0.0",
+  "description": "My first chat",
+  "main": "server.js",
+  "dependencies": {
+    "express": "^4.15.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dadleatherwood/chat-sample.git"
+  },
+  "keywords": [
+    "chat"
+  ],
+  "author": "Jacob Leatherwood",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dadleatherwood/chat-sample/issues"
+  },
+  "homepage": "https://github.com/dadleatherwood/chat-sample#readme"
+}
